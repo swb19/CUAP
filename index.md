@@ -15,16 +15,69 @@
 </p>
 
 # 1. Abstract
-Autonomous driving systems are confronted with the formidable challenge of navigating intricate and dynamic environments rife with uncertainty. This study presents a unified prediction and planning framework, concurrently modeling short-term aleatoric uncertainty (SAU), long-term aleatoric uncertainty (LAU), and epistemic uncertainty (EU) in prediction and establish a robust foundation for planning in dynamic contexts. SAU captures inherent randomness in the behavior of traffic participants, while LAU accounts for their diverse behavioral patterns. EU encompasses uncertainties arising from inadequate model cognition.
-The framework leverages advanced modeling techniques, including gaussian mixture models and deep ensemble methods, to effectively capture and assess SAU, LAU, and EU.
-Additionally, the uncertainty-aware planning is introduced, considering various uncertainties. The study's contributions include comprehensive comparisons of various uncertainty estimation, risk modeling, and planning methods, including comparisons with existing approaches.
-The proposed methods is rigorously evaluated using the CommonRoad benchmark and settings involving limited perception. These experiments provide a systematic and lucid perspective, illuminating the advantages and roles of different uncertainty factors in the autonomous driving process.
-In addition, comparative assessments of various uncertainty modeling strategies underscore the benefits of modeling multiple types of uncertainties, demonstrating its effectiveness in enhancing planning accuracy and reliability.
-
+Autonomous driving systems face the formidable challenge of navigating intricate and dynamic environments with uncertainty. This study presents a unified prediction and planning framework that concurrently models short-term aleatoric uncertainty (SAU), long-term aleatoric uncertainty (LAU), and epistemic uncertainty (EU) to predict and establish a robust foundation for planning in dynamic contexts. 
+SAU captures inherent randomness in the behavior of traffic participants, while LAU accounts for their diverse behavioral patterns. EU encompasses uncertainties arising from inadequate model cognition.
+The framework uses Gaussian mixture models and deep ensemble methods, to concurrently capture and assess SAU, LAU, and EU, where traditional methods do not integrate these uncertainties simultaneously.
+Additionally, uncertainty-aware planning is introduced, considering various uncertainties. The study's contributions include comparisons of uncertainty estimations, risk modeling, and planning methods in comparison to existing approaches.
+The proposed methods were rigorously evaluated using the CommonRoad benchmark and settings with limited perception. These experiments illuminated the advantages and roles of different uncertainty factors in autonomous driving processes.
+In addition, comparative assessments of various uncertainty modeling strategies underscore the benefits of modeling multiple types of uncertainties, thus enhancing planning accuracy and reliability. The proposed framework facilitates the development of methods for UAP and surpasses existing uncertainty-aware risk models, particularly when considering diverse traffic scenarios.
 
 # 2. Method Overview
 
+Proposed unified prediction and planning framework that considers different types of uncertainties.
 ![img.png](src/paper_2.png)
+
+
+
+The modeled uncertainties and their combinations, as well as various
+uncertainty-aware risk models.
+
+<p align="center">
+<img src="src/paper_4.png" width="800" alt="curve">
+</p>
+
+
+The process of uncertainty-aware planning.
+
+<p align="center">
+<img src="src/paper_5.png" width="800" alt="curve">
+</p>
+
+
+# 3. Experimental Results
+
+## 3.1. Planning under Aleatoric Uncertainty
+<p align="center">
+<img src="src/table_2.png" width="500" alt="curve">
+</p>
+
+
+## 3.2. Planning with Consideration of Epistemic Uncertainty
+<p align="center">
+<img src="src/table_3.png" width="500" alt="curve">
+</p>
+
+## 3.3. Analysis of Comprehensive Risk Model
+<p align="center">
+<img src="src/table_6.png" width="500" alt="curve">
+</p>
+
+
+## 3.4. Testing under Limited Perception
+<p align="center">
+<img src="src/table_7.png" width="500" alt="curve">
+</p>
+
+
+## 3.5. Analysis of Typical Cases
+
+<p align="center">
+<img src="src/paper_6.png" width="900" alt="curve">
+<img src="src/paper_7.png" width="900" alt="curve">
+</p>
+
+
+
 
 
 
@@ -48,5 +101,6 @@ In addition, comparative assessments of various uncertainty modeling strategies 
 
 [//]: # (```)
 
-## 3.7. Contact
-If you have any questions, feel free to contact [wenbo shao](swb19@mails.tsinghua.edu.cn).
+
+## 3.6. Contact
+If you have any questions, feel free to contact Wenbo Shao ([swb19@mails.tsinghua.edu.cn](swb19@mails.tsinghua.edu.cn)).
