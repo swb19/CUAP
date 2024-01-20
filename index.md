@@ -29,52 +29,80 @@ Proposed unified prediction and planning framework that considers different type
 
 
 
-The modeled uncertainties and their combinations, as well as various
-uncertainty-aware risk models.
+[//]: # (The modeled uncertainties and their combinations, as well as various)
 
-<p align="center">
-<img src="src/paper_4.png" width="800" alt="curve">
-</p>
+[//]: # (uncertainty-aware risk models.)
 
+[//]: # ()
+[//]: # (<p align="center">)
 
-The process of uncertainty-aware planning.
+[//]: # (<img src="src/paper_4.png" width="800" alt="curve">)
 
-<p align="center">
-<img src="src/paper_5.png" width="800" alt="curve">
-</p>
+[//]: # (</p>)
+
+[//]: # ()
+[//]: # ()
+[//]: # (The process of uncertainty-aware planning.)
+
+[//]: # ()
+[//]: # (<p align="center">)
+
+[//]: # (<img src="src/paper_5.png" width="800" alt="curve">)
+
+[//]: # (</p>)
 
 
 # 3. Experimental Results
 
-## 3.1. Planning under Aleatoric Uncertainty
-<p align="center">
-<img src="src/table_2.png" width="500" alt="curve">
-</p>
+[//]: # (## 3.1. Planning under Aleatoric Uncertainty)
 
+[//]: # (<p align="center">)
 
-## 3.2. Planning with Consideration of Epistemic Uncertainty
-<p align="center">
-<img src="src/table_3.png" width="500" alt="curve">
-</p>
+[//]: # (<img src="src/table_2.png" width="500" alt="curve">)
 
-## 3.3. Analysis of Comprehensive Risk Model
-<p align="center">
-<img src="src/table_6.png" width="500" alt="curve">
-</p>
+[//]: # (</p>)
 
+[//]: # ()
+[//]: # ()
+[//]: # (## 3.2. Planning with Consideration of Epistemic Uncertainty)
 
-## 3.4. Testing under Limited Perception
-<p align="center">
-<img src="src/table_7.png" width="500" alt="curve">
-</p>
+[//]: # (<p align="center">)
 
+[//]: # (<img src="src/table_3.png" width="500" alt="curve">)
 
-## 3.5. Analysis of Typical Cases
+[//]: # (</p>)
 
-<p align="center">
-<img src="src/paper_6.png" width="900" alt="curve">
-<img src="src/paper_7.png" width="900" alt="curve">
-</p>
+[//]: # ()
+[//]: # (## 3.3. Analysis of Comprehensive Risk Model)
+
+[//]: # (<p align="center">)
+
+[//]: # (<img src="src/table_6.png" width="500" alt="curve">)
+
+[//]: # (</p>)
+
+[//]: # ()
+[//]: # ()
+[//]: # (## 3.4. Testing under Limited Perception)
+
+[//]: # (<p align="center">)
+
+[//]: # (<img src="src/table_7.png" width="900" alt="curve">)
+
+[//]: # (</p>)
+
+[//]: # ()
+[//]: # ()
+[//]: # (## 3.5. Analysis of Typical Cases)
+
+[//]: # ()
+[//]: # (<p align="center">)
+
+[//]: # (<img src="src/paper_6.png" width="900" alt="curve">)
+
+[//]: # (<img src="src/paper_7.png" width="900" alt="curve">)
+
+[//]: # (</p>)
 
 
 
@@ -83,24 +111,33 @@ The process of uncertainty-aware planning.
 
 [//]: # (## 3.6. Citation)
 
+[//]: # ()
 [//]: # (```)
 
+[//]: # ()
 [//]: # (@article{shao2023likely,)
 
+[//]: # ()
 [//]: # (  title={When Is It Likely to Fail? Performance Monitor for Black-Box Trajectory Prediction Model},)
 
+[//]: # ()
 [//]: # (  author={Shao, Wenbo and Li, Boqi and Yu, Wenhao and Xu, Jiahui and Wang, Hong},)
 
+[//]: # ()
 [//]: # (  journal={IEEE Transactions on Automation Science and Engineering},)
 
+[//]: # ()
 [//]: # (  year={2023},)
 
+[//]: # ()
 [//]: # (  publisher={IEEE})
 
+[//]: # ()
 [//]: # (})
 
+[//]: # ()
 [//]: # (```)
 
 
-## 3.6. Contact
+# 4. Contact
 If you have any questions, feel free to contact Wenbo Shao ([swb19@mails.tsinghua.edu.cn](swb19@mails.tsinghua.edu.cn)).
