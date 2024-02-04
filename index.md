@@ -52,7 +52,7 @@ Proposed unified prediction and planning framework that considers different type
 [//]: # (</p>)
 
 
-# 3. Experimental Results
+[//]: # (# 3. Experimental Results)
 
 [//]: # (## 3.1. Planning under Aleatoric Uncertainty)
 
