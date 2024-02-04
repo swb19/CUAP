@@ -139,7 +139,8 @@ Proposed unified prediction and planning framework that considers different type
 [//]: # (```)
 
 # 4. Visaualization
-## 4.1. SAU
+
+[//]: # (## 4.1. SAU)
 
 | <video muted controls width=380> <source src="./src/PR/USA_Lanker-2_18_T-1.mp4"  type="video/mp4"> </video> | <video muted controls width=380> <source src="./src/PR/USA_Lanker-2_22_T-1.mp4"  type="video/mp4"> </video> |
 
