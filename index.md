@@ -15,12 +15,11 @@
 </p>
 
 # 1. Abstract
-Autonomous driving systems face the formidable challenge of navigating intricate and dynamic environments with uncertainty. This study presents a unified prediction and planning framework that concurrently models short-term aleatoric uncertainty (SAU), long-term aleatoric uncertainty (LAU), and epistemic uncertainty (EU) to predict and establish a robust foundation for planning in dynamic contexts. 
-SAU captures inherent randomness in the behavior of traffic participants, while LAU accounts for their diverse behavioral patterns. EU encompasses uncertainties arising from inadequate model cognition.
-The framework uses Gaussian mixture models and deep ensemble methods, to concurrently capture and assess SAU, LAU, and EU, where traditional methods do not integrate these uncertainties simultaneously.
-Additionally, uncertainty-aware planning is introduced, considering various uncertainties. The study's contributions include comparisons of uncertainty estimations, risk modeling, and planning methods in comparison to existing approaches.
-The proposed methods were rigorously evaluated using the CommonRoad benchmark and settings with limited perception. These experiments illuminated the advantages and roles of different uncertainty factors in autonomous driving processes.
-In addition, comparative assessments of various uncertainty modeling strategies underscore the benefits of modeling multiple types of uncertainties, thus enhancing planning accuracy and reliability. The proposed framework facilitates the development of methods for UAP and surpasses existing uncertainty-aware risk models, particularly when considering diverse traffic scenarios.
+Autonomous driving systems face the formidable challenge of navigating intricate and dynamic environments with uncertainty. This study presents a unified prediction and planning framework that concurrently models short-term aleatoric uncertainty (SAU), long-term aleatoric uncertainty (LAU), and epistemic uncertainty (EU) to establish a robust foundation for planning in dynamic contexts. 
+% SAU captures inherent randomness in the behavior of traffic participants, while LAU accounts for their diverse behavioral patterns. EU encompasses uncertainties arising from inadequate model cognition.
+Using Gaussian mixture models and deep ensemble methods, our framework captures and assesses SAU, LAU, and EU simultaneously, surpassing traditional methods that treat these uncertainties separately.
+Additionally, we introduce an uncertainty-aware planning (UAP) approach that integrates these uncertainties into the decision-making process. Our contributions include comprehensive comparisons of uncertainty estimations, risk modeling, and planning methods against existing approaches. The proposed methods were rigorously evaluated using the CommonRoad benchmark and scenarios with limited perception, demonstrating significant improvements over existing approaches, particularly in diverse traffic scenarios. Comparative analyses highlight the advantages of incorporating multiple types of uncertainties to enhance planning accuracy and reliability.
+This study provides a detailed perspective on the application of uncertainty management from prediction to planning, and the findings underscore the potential for improved autonomous driving performance, especially in accident prevention, through comprehensive uncertainty management.
 
 # 2. Method Overview
 
