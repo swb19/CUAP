@@ -45,7 +45,7 @@ The modeled uncertainties and their combinations, as well as various uncertainty
 [//]: # (</p>)
 
 
-# 3. Experimental Results
+<!-- # 3. Experimental Results
 
 ## 3.1. Planning under Aleatoric Uncertainty
 
@@ -95,10 +95,7 @@ The modeled uncertainties and their combinations, as well as various uncertainty
 
 <img src="src/paper_7.png" width="900" alt="curve">
 
-</p>
-
-
-
+</p> -->
 
 
 
@@ -131,7 +128,7 @@ The modeled uncertainties and their combinations, as well as various uncertainty
 [//]: # ()
 [//]: # (```)
 
-# 4. Visaualization
+# 3. Visaualization
 
 [//]: # (## 4.1. SAU)
 
@@ -144,5 +141,5 @@ The modeled uncertainties and their combinations, as well as various uncertainty
 | <video muted controls width=380> <source src="./src/PR/USA_Peach-4_6_T-1.mp4"  type="video/mp4"> </video> | <video muted controls width=380> <source src="./src/PR/DEU_Lohmar-58_1_T-1.mp4"  type="video/mp4"> </video> |
 
 
-# 5. Contact
+# 4. Contact
 If you have any questions, feel free to contact Wenbo Shao ([swb19@mails.tsinghua.edu.cn](swb19@mails.tsinghua.edu.cn)).
