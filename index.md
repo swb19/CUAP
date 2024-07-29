@@ -24,16 +24,14 @@ Proposed unified prediction and planning framework that considers different type
 
 
 
-[//]: # (The modeled uncertainties and their combinations, as well as various)
+The modeled uncertainties and their combinations, as well as various uncertainty-aware risk models.
 
-[//]: # (uncertainty-aware risk models.)
 
-[//]: # ()
-[//]: # (<p align="center">)
+<p align="center">
 
-[//]: # (<img src="src/paper_4.png" width="800" alt="curve">)
+<img src="src/paper_4.png" width="800" alt="curve">
 
-[//]: # (</p>)
+</p>
 
 [//]: # ()
 [//]: # ()
@@ -47,57 +45,57 @@ Proposed unified prediction and planning framework that considers different type
 [//]: # (</p>)
 
 
-[//]: # (# 3. Experimental Results)
+# 3. Experimental Results
 
-[//]: # (## 3.1. Planning under Aleatoric Uncertainty)
+## 3.1. Planning under Aleatoric Uncertainty
 
-[//]: # (<p align="center">)
+<p align="center">
 
-[//]: # (<img src="src/table_2.png" width="500" alt="curve">)
+<img src="src/table_2.png" width="500" alt="curve">
 
-[//]: # (</p>)
+</p>
 
-[//]: # ()
-[//]: # ()
-[//]: # (## 3.2. Planning with Consideration of Epistemic Uncertainty)
 
-[//]: # (<p align="center">)
 
-[//]: # (<img src="src/table_3.png" width="500" alt="curve">)
+## 3.2. Planning with Consideration of Epistemic Uncertainty
 
-[//]: # (</p>)
+<p align="center">
 
-[//]: # ()
-[//]: # (## 3.3. Analysis of Comprehensive Risk Model)
+<img src="src/table_3.png" width="500" alt="curve">
 
-[//]: # (<p align="center">)
+</p>
 
-[//]: # (<img src="src/table_6.png" width="500" alt="curve">)
 
-[//]: # (</p>)
+## 3.3. Analysis of Comprehensive Risk Model
 
-[//]: # ()
-[//]: # ()
-[//]: # (## 3.4. Testing under Limited Perception)
+<p align="center">
 
-[//]: # (<p align="center">)
+<img src="src/table_6.png" width="500" alt="curve">
 
-[//]: # (<img src="src/table_7.png" width="900" alt="curve">)
+</p>
 
-[//]: # (</p>)
 
-[//]: # ()
-[//]: # ()
-[//]: # (## 3.5. Analysis of Typical Cases)
 
-[//]: # ()
-[//]: # (<p align="center">)
+## 3.4. Testing under Limited Perception
 
-[//]: # (<img src="src/paper_6.png" width="900" alt="curve">)
+<p align="center">
 
-[//]: # (<img src="src/paper_7.png" width="900" alt="curve">)
+<img src="src/table_7.png" width="900" alt="curve">
 
-[//]: # (</p>)
+</p>
+
+
+
+## 3.5. Analysis of Typical Cases
+
+
+<p align="center">
+
+<img src="src/paper_6.png" width="900" alt="curve">
+
+<img src="src/paper_7.png" width="900" alt="curve">
+
+</p>
 
 
 
